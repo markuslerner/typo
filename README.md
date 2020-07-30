@@ -1,9 +1,10 @@
-# Typographical performance test
+# Typographical performance test (single geometry)
 
 Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/three.js/) using bitmap texture optionally merged into a single geometry.
 
 [Demo](https://test.markuslerner.com/typo)
 
+Compare: [Typographical performance test (point cloud)](https://github.com/markuslerner/typo-poincloud)
 
 
 ### Used libraries
