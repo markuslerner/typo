@@ -1,4 +1,4 @@
-# Typo performance test
+# Typographical performance test
 
 Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/three.js/) using bitmap texture optionally merged into a single geometry.
 
@@ -18,4 +18,4 @@ Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/
 
 MIT licensed
 
-Copyright (C) 2020 Markus Lerner, http://www.markuslerner.com
+Copyright (C) 2015 Markus Lerner, http://www.markuslerner.com
