@@ -1,4 +1,4 @@
-# Spiral Shader Experiment
+# Typo performance test
 
 Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/three.js/) using bitmap texture optionally merged into a single geometry.
 
