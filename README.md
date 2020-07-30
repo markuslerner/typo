@@ -4,7 +4,7 @@ Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/
 
 [Demo](https://test.markuslerner.com/typo)
 
-Compare: [Typographical performance test (point cloud)](https://github.com/markuslerner/typo-poincloud)
+Compare: [Typographical performance test (point cloud)](https://github.com/markuslerner/typo-pointcloud)
 
 
 ### Used libraries
